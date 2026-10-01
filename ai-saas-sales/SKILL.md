@@ -1,6 +1,6 @@
 ---
 name: ai-saas-sales
-description: Plan and improve sales work for AI SaaS products, including discovery, demos, objection handling, and follow-up.
+description: 用于 AI SaaS 销售场景。当用户提供具体客户、聊天记录、跟进情况或销售问题，需要分析客户阶段、异议、成交阻力和下一步动作；生成微信、电话、邀约、促单等销售话术；准备演示或线下拜访；进行销售复盘；测算 ROI 与客户成本；或判断客户是否值得继续跟进及成交机会时使用。
 ---
 
 # AI SaaS Sales
