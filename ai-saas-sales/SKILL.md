@@ -14,3 +14,15 @@ Use this skill when preparing or improving a sales interaction for an AI-powered
 - For discovery, focus questions on the workflow, business impact, data and privacy constraints, integrations, and buying process.
 - For demos, show the smallest set of product workflows that prove the relevant value.
 - For outreach, objection responses, and follow-ups, keep the message concise and end with a clear next step.
+
+### Lead follow-up priority
+
+For prospects who have been in contact for at least 3 days, use the following signals to set follow-up priority:
+
+- If the prospect replies on WeChat, assess the reply and continue the conversation accordingly.
+- If the prospect does not reply on WeChat but answers a call, is willing to talk, or asks for a later callback, continue following up and respect the time they requested.
+- If the prospect does not reply on WeChat and hangs up as soon as you call, lower their priority.
+- If the prospect explicitly says they do not need the product for now, lower their priority rather than abandoning them. Follow up infrequently, and reassess if their needs, team, business volume, platform rules, or cost structure change.
+- If the prospect neither replies on WeChat nor answers calls for 3 consecutive days, lower their priority. Contact them once more 2 days later.
+- If the prospect responds, is willing to talk, shares requested information, or agrees to a demo after being downgraded, raise their priority again.
+- If the 2-day follow-up after the 3-day silence still gets no WeChat reply and no phone answer, abandon the prospect.
