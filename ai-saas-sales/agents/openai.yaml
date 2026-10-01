@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SaaS Sales"
+  short_description: "Support AI SaaS sales conversations and workflows"
+  default_prompt: "Use $ai-saas-sales to help with an AI SaaS sales task."
